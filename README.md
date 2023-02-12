@@ -1,6 +1,6 @@
 # Statistical-Learning-Projects
 
-STAT 542 (2022 Fall), University of Illinois at Urbana-Champaign
+STAT 542 Statistical Learning (2022 Fall), University of Illinois at Urbana-Champaign
 
 ## Project 1
 The goal of the project is to predict the price of a home sold in Ames, Iowa between 2006 and 2010 with explanatory variables such as the height of the basement ceiling or the proximity to an east-west railroad.
